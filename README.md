@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Frederic FERRY
-- 👀 I’m interested in Atmospheric Dynamics (general circulation of the atmosphere, mid-latitudes dynamics, weather regimes tropical meteorology and intraseasonnal variability)
+- 👀 I’m interested in Atmospheric Dynamics (general circulation of the atmosphere, mid-latitudes dynamics, weather regimes, tropical meteorology and intraseasonnal variability)
 - 🌱 I’m currently teaching Atmospheric Dynamics the French Meteorology School (Météo France -Ecole Nationale de la Météorologie)
 - 💞️ I develop many Python ressources on various topics linked to my classes.
 - 📫 How to reach me : mailto:frederic.ferry@meteo.fr
